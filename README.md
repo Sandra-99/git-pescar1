@@ -71,7 +71,10 @@ git log
 ```sh
 git diff
 ```
- 
+ # quitar de la area de staging 
+  ```sh
+  git restore --staged <nombre del archivo>
+  ```
 
 
 
