@@ -46,9 +46,32 @@ git status
 ```
 
 
+## agregar al area de staging => al repositorio 
+```sh
+git add <nombre del archivo>
+#subir todos los archivos a la vez
+git add . 
+
+```
+
+# subir el archivo al area de staging => guardia en el repositorio una instatanea
+```sh
+
+git commit -m "mensaje"
+```
 
 
+# ver el estado e info del commit
+```sh
+git log
+```   
 
+# ver las modificaciones / diferencias que se agregaron o quitaron en el working directory y el local repo
+
+```sh
+git diff
+```
+ 
 
 
 
