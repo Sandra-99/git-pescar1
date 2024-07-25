@@ -76,6 +76,19 @@ git diff
   git restore --staged <nombre del archivo>
   ```
 
+# ver lo que paso en un commit
+
+```sh
+git show <hash>
+git show 32146
+```
+
+## ver el historial de commits
+ 
+```sh
+git log #version larga
+git log --oneline #version resumida
+```
 
 
 
