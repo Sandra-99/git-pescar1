@@ -7,9 +7,15 @@ git diff <hash> <hash>
 
 ```sh
 git add . 
-git commit --amend
+git commit --amend (7988bf1)
 
 ```
 
 # RAMAS (Branches)
 ## Nos permite trabajar en proyectos de manera auxiliar.
+
+```sh
+git branch <nombre-rama>
+git branch feature/navbar
+git branch feature/footer
+```
