@@ -87,7 +87,7 @@ git show 32146
  
 ```sh
 git log #version larga
-git log --oneline #version resumida
+git log --oneline #version resumida 
 ```
 
 
