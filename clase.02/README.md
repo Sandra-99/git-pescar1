@@ -37,3 +37,31 @@ git switch -c <nombre-rama>
 git switch -c feature/rama
 
 ```
+
+## Ver todas las ramas del repositorio en el log
+
+```sh
+git log --oneline --all --graph --decorate
+
+```
+
+## Ver detalles de las ramas y sus ultimos commit
+
+```sh
+git branch -v
+
+```
+
+
+## Borrar una rama
+
+```sh
+git branch -d <nombre-de-la-rama>
+```
+
+## Borrar una rama de forma forzada. (seguro de lo que quiero borrar)
+
+```sh
+git branch -D <nombre-de-la-rama>
+
+```
