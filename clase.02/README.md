@@ -10,3 +10,6 @@ git add .
 git commit --amend
 
 ```
+
+# RAMAS (Branches)
+## Nos permite trabajar en proyectos de manera auxiliar.
