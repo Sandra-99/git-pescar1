@@ -12,10 +12,28 @@ git commit --amend (7988bf1)
 ```
 
 # RAMAS (Branches)
-## Nos permite trabajar en proyectos de manera auxiliar.
+## Nos permite trabajar en proyectos de manera auxiliar. trabaja ramas
+
+## crear una rama
 
 ```sh
 git branch <nombre-rama>
 git branch feature/navbar
 git branch feature/footer
+```
+
+# Moverme enntre ramas
+## comando switch -> cambirar de ramas
+
+```sh
+git switch <nombre-rama>
+git switch feature/navbar
+git switch feature/footer
+
+```
+
+```sh
+git switch -c <nombre-rama>
+git switch -c feature/rama
+
 ```
