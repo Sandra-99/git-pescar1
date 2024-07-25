@@ -3,6 +3,7 @@
 ```sh
 git diff <hash> <hash>
 ```
+
 # para agregar algo que me olvide o quiero incomporara algo para el utlimo commit, uso el siguiente comando 
 
 ```sh
@@ -19,3 +20,6 @@ git branch <nombre-rama>
 git branch feature/navbar
 git branch feature/footer
 ```
+
+# Fusiones (Marge) de ramas (Branches)
+
