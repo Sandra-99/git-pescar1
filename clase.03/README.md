@@ -24,7 +24,7 @@ git switch <nombre-rama>
 git switch feature/rama
 git switch - #toogle entre las ultimas 2 ramas
 ```
-## Crear otra rama
+## Crear otra rama y moverse a esa rama
 ```sh
 git switch -c
 ```
