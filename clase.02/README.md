@@ -21,3 +21,7 @@ git branch feature/footer
 ```
 
 # Fusiones (Marge) de ramas (ranches)
+
+* Fusion -> fast-foward (automatica)
+* Fusion -> tres vias (automatica) (genera un commit intermedio entre los ultimos commits)
+* Fusion, manual (Git no puede solucionar los conflictos) pide que yo como desarrollador solucione los conflictos.
